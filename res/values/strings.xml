@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">BidWatcher</string>
+    
+    <string name="copy_oauth">Login to Trademe</string>
+    <string name="copy_specify_bid">Specify bid</string>
+    <string name="copy_notification_details">Current bid £%1$.2f\nEnds in %2$s\nBids %3$d</string>
+    
+    <string name="label_button_login">Login</string>
+    <string name="label_auto_bid">Bid</string>
+    <string name="label_bid">Set Bid</string>
+    
+    <string name="title_auction_update">Auction Update</string>
+    <string name="title_auction_details">Summary</string>
+
+</resources>
