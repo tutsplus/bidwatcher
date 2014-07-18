@@ -1,0 +1,1 @@
+Android Wear example for 'Signals and Microinteractions for Smartwatches' (IBM Developerworks article) - uses extensions to the Notification framework to monitor your bids on trademe (www.trademe.co.nz)
